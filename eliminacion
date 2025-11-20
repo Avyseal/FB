@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Eliminación de Datos</title>
+</head>
+<body>
+    <h1>Eliminación de Datos</h1>
+    <p>
+        Los usuarios pueden solicitar la eliminación de su información personal enviando un correo a 
+        soporte@tudominio.com. Su solicitud será procesada en un máximo de 30 días.
+    </p>
+</body>
+</html>
